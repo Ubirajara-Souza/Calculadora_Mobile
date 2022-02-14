@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProjetoAndroid</string>
+    <string name="somar">Somar</string>
+    <string name="multiplicar">Multiplicar</string>
+    <string name="subtrair">Subtrair</string>
+    <string name="dividir">Dividir</string>
+    <string name="resultado">Resultado =</string>
+</resources>
